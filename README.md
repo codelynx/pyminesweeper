@@ -30,8 +30,8 @@ Kaz Yoshikawa
 
 ## Screenshots
 
-![alt tag](https://raw.github.com/kyoshikawa/pyminesweeper/master/shots/shot1.png)
-![alt tag](https://raw.github.com/kyoshikawa/pyminesweeper/master/shots/shot2.png)
+![alt tag](https://raw.github.com/codelynx/pyminesweeper/master/shots/shot1.png)
+![alt tag](https://raw.github.com/codelynx/pyminesweeper/master/shots/shot2.png)
 
 
 ## License
